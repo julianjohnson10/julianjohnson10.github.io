@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Saddleback Community College, 2011-2013
+* A.A.S. in Information Systems Security, Community College of the Air Force, 2018
+* B.S. in Software Development, Western Governors University, 2022 (expected)
 
 Work experience
 ======
