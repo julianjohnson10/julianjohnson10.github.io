@@ -61,6 +61,8 @@ Remote, WA
 * Perform internal/external vulnerability scans using Qualys.
 * Align with Threat Analysts to triage vulnerabilities that require immediate resolution, based on real-time threat intelligence.
 * Communicate penetration test findings to remediation teams, along with mitigation/remediation steps.
+
+
 <!-- 
 Skills
 ======
