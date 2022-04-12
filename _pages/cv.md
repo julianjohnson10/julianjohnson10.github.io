@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * Saddleback Community College, 2011-2013
+* University of Maryland Global Campus, Asia, 2014-2016
 * A.A.S. in Information Systems Security, Community College of the Air Force, 2018
 * B.S. in Software Development, Western Governors University, 2022 (expected)
 
@@ -70,7 +71,7 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -87,7 +88,7 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+   -->
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
