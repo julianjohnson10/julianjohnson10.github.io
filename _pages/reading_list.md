@@ -7,8 +7,6 @@ redirect_from:
   - /read
 ---
 
-{% include base_path %}
-
 Reading List
 ======
 Analogia:
