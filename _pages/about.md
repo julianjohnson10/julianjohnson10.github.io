@@ -10,4 +10,5 @@ redirect_from:
 ---
 A data-driven personal website
 ======
-Nice to meet you! My name is Julian Johnson. I am an Air Force veteran with over 8 years' experience in the cyber security industry.
+Nice to meet you! My name is Julian Johnson. I am a United States Air Force veteran with over 8 years' experience in the cyber security industry.
+
