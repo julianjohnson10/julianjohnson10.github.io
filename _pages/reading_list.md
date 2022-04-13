@@ -9,6 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-======
-
-[Analogia:](https://www.amazon.com/Analogia-Emergence-Technology-Programmable-Control-ebook/dp/B07Y73W2NG "The best search engine for privacy").
+[Analogia:](https://www.amazon.com/Analogia-Emergence-Technology-Programmable-Control-ebook/dp/B07Y73W2NG)
+![The San Juan Mountains are beautiful!](/images/analogia_book.jpg "San Juan Mountains")
