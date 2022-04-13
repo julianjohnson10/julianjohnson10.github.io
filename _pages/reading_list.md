@@ -11,4 +11,4 @@ redirect_from:
 
 ======
 
-Analogia:
+[Analogia:](https://www.amazon.com/Analogia-Emergence-Technology-Programmable-Control-ebook/dp/B07Y73W2NG "The best search engine for privacy").
