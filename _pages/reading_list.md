@@ -7,6 +7,6 @@ redirect_from:
   - /read
 ---
 
-Reading List
+{% include base_path %}
 ======
 Analogia:
