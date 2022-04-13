@@ -17,4 +17,4 @@ I am a proven subject matter expert in various security disciplines, such as end
 
 About Me:
 ======
-After joining
+After graduating high school in 2011, I 
