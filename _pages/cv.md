@@ -16,7 +16,7 @@ Education
 * A.A.S. in Information Systems Security, Community College of the Air Force, 2018
 * B.S. in Software Development, Western Governors University, 2022 (expected)
 
-Work experience
+Work Experience
 ======
 Vulnerability Management Technician | 2014 – 2016
 36th Communications Squadron | UNITED STATES AIR FORCE
@@ -63,17 +63,17 @@ Remote, WA
 * Communicate penetration test findings to remediation teams, along with mitigation/remediation steps.
 
 
-<!-- 
-Skills
+
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3 -->
+* Skill 3
 
-<!-- Publications
+ Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -90,7 +90,7 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-   -->
-<!-- Service and leadership
+   
+ Service and leadership
 ======
 * Currently signed in to 43 different slack teams -->
