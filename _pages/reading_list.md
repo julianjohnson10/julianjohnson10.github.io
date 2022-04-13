@@ -1,13 +1,14 @@
 ---
+layout: archive
+title: "Reading List"
 permalink: /reading/
-# title: "Julian Johnson"
-excerpt: "My reading list"
 author_profile: true
 redirect_from:
-  - /reading_list.html
-  - /reading_list.md
+  - /read
 ---
-A data-driven personal website
-======
-A list of books that I am currently reading:
 
+{% include base_path %}
+
+Reading List
+======
+Analogia:
