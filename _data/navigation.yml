@@ -18,8 +18,8 @@ main:
   - title: "CV"
     url: /cv/
     
-  # - title: "Guide"
-  #   url: /markdown/
+  - title: "Reading List"
+    url: /reading/
 
   # - title: "Certifications"
   #   url: /certs/
