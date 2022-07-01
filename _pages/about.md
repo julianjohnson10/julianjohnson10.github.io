@@ -14,7 +14,3 @@ Nice to meet you! My name is Julian Johnson.
 I am a United States Air Force veteran with over 8 years' experience in the cybersecurity industry.
 
 I am a proven subject matter expert in various security disciplines, such as endpoint protection and vulnerability management.
-
-About Me:
-======
-After graduating high school in 2011, I 
