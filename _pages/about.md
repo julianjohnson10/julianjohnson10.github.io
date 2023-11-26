@@ -8,14 +8,10 @@ redirect_from:
   - /about.html
   - /about.md
 ---
-## About
-
 Nice to meet you! My name is Julian Johnson.
 
+I am a U.S. Air Force veteran with over 8 years of hands-on experience in the IT industry. The field of cybersecurity has enabled me to become a subject matter expert in various disciplines, such as endpoint protection, vulnerability management, and software engineering.
 
+I hold a B.S. in Software Development from Western Governors University, and an A.A.S from the Community College of the Air Force. Over the past decade I have gathered a diverse set of skills and highly sought after certifications, reflecting my commitment to continuous improvement and self-learning.
 
-I am a United States Air Force veteran with over 8 years' experience in the cybersecurity industry.
-
-I am a proven subject matter expert in various security disciplines, such as endpoint protection and vulnerability management.
-
-I received by B.S. in Software Development from Western Governors University.
+For all inquiries, please email me at: julian.johnson.10@outlook.com
