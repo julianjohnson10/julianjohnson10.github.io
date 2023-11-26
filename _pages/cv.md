@@ -22,15 +22,15 @@ Vulnerability Management Technician | 2014 – 2016
 Yigo, Guam
 
 * Identified, validated, and reported over 150K vulnerabilities annually.
-* Reported critical vulnerability findings to Director of Operations (equivalent).
-* Maintained core services for multiple USAF installation networks. Managed file, authentication, database, and application servers.
+* Reported critical vulnerability findings to Director of Operations.
+* Maintained core services for multiple geologically separated locations. Managed file, authentication, database, and application servers.
 * Configured new Active Directory security groups and user accounts.
 
-Endpoint Protection Specialist | 2016 – 2018
+Endpoint Security Specialist | 2016 – 2018
 690th Cyberspace Operations Squadron | UNITED STATES AIR FORCE
 Honolulu, Hawaii
 
-* Managed the endpoint protection framework for 450,000+ devices across the United States Air Force’s global enterprise network.
+* Managed the endpoint protection framework for 450,000+ devices across the global enterprise network.
 * Trained scanning technicians on updating scanning configurations within SecurityCenter, using Tenable scanning best practices for proper enumeration of assets.
 * Maintained administrative access to 30+ SecurityCenter servers.
   Led Computer Network Defense compliance audits on classified and unclassified networks.
